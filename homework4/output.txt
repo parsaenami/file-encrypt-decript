@@ -1,0 +1,2 @@
+squared numbers : 16 1 36 64 
+summation of them : 117
